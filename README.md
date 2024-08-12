@@ -1,1 +1,1 @@
-# rna_edo
+#Redes neurais para resolução de equações diferenciais

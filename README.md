@@ -51,8 +51,6 @@ O código é dividido em várias classes e funções:
 
 ### Potenciais Melhorias:
 
-* Implementar diferentes tipos de redes neurais, como redes convolucionais ou recorrentes.
-* Adicionar regularização para evitar o overfitting.
 * Implementar outras técnicas de otimização, como Adam ou RMSprop.
 * Investigar o impacto do tamanho do lote, da taxa de aprendizado e do número de épocas no desempenho da rede.
 * Avaliar o desempenho da rede em conjuntos de dados de teste separados.

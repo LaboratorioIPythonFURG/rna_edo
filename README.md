@@ -41,6 +41,13 @@ O código é dividido em várias classes e funções:
 
 5. **Observar o custo da rede neural durante o treinamento.**
 
+## Referências
+
+* **BAELDUNG.** _Differences Between Gradient, Stochastic and Mini Batch Gradient Descent_. 2023. &lt;https://www.baeldung.com/cs/gradient-stochastic-and-mini-batch&gt;. Acessado em: 13 ago. 2024.
+* **HAYKIN, S.** _Redes Neurais - Princípios e práticas_. [S.l.]: Bookman, 2007.
+* **LAGARIS, I. E.; LIKAS, A.; FOTIADIS, D. I.** _Artificial neural networks for solving ordinary and partial differential equations_. IEEE Transactions on Neural Networks, 1998.
+  
+
 ### Observações:
 
 * O código pode ser modificado para resolver outras EDOs alterando as funções `trialFunc`, `dTrialFunc` e `diffEq`.

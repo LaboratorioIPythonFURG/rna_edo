@@ -43,6 +43,7 @@ O código é dividido em várias classes e funções:
 
 ## Referências
 
+Código: https://github.com/Isaac-Somerville/Neural-Networks-for-Solving-Differential-Equations/tree/main?tab=readme-ov-file
 * **BAELDUNG.** _Differences Between Gradient, Stochastic and Mini Batch Gradient Descent_. 2023. &lt;https://www.baeldung.com/cs/gradient-stochastic-and-mini-batch&gt;. Acessado em: 13 ago. 2024.
 * **HAYKIN, S.** _Redes Neurais - Princípios e práticas_. [S.l.]: Bookman, 2007.
 * **LAGARIS, I. E.; LIKAS, A.; FOTIADIS, D. I.** _Artificial neural networks for solving ordinary and partial differential equations_. IEEE Transactions on Neural Networks, 1998.
